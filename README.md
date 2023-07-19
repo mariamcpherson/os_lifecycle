@@ -32,8 +32,29 @@ By following this ticket lifecycle, osTicket helps support teams efficiently man
 1. Ticket Creation or Intake: The lifecycle begins when a customer submits a new support ticket. This can happen through various channels, such as a web form on the support portal, an email sent to a designated support email address, or even an API integration with other systems.
 </p>
 <p>
-In this tutorial, we can access the osTicket system as an end user to create a new ticket by browsing to the following URL: http:/localhost/osTicket
+In this tutorial, we can access the osTicket system we previously installed and configured as an end user to create a new ticket by browsing to the following URL: http:/localhost/osTicket, then clicking on "Open New Ticket."
 </p>
+
+<p>
+<img src="https://github.com/mariamcpherson/os_lifecycle/assets/139581822/e0e1ec01-2d28-445d-8576-0879f7b82a51"/>
+</p>
+
+<p>
+I created three different made up tickets for different Help Topics, as shown below. They include a brief description of the issue. 
+</p>
+
+<p>
+<img src="https://github.com/mariamcpherson/os_lifecycle/assets/139581822/286331d2-4157-4219-b9ee-a2494cfed843"/>
+</p>
+
+<p>
+<img src="https://github.com/mariamcpherson/os_lifecycle/assets/139581822/60ad2f91-4284-4613-be9d-4d4723ab86af"/>
+</p>
+
+<p>
+<img src="https://github.com/mariamcpherson/os_lifecycle/assets/139581822/32fb4c18-fdac-43ef-8358-f182c5ac4a86"/>
+</p>
+
 
 <p>
 2. Ticket Assignment: Once the ticket is created, it needs to be assigned to an appropriate agent or support staff member. In osTicket, this can be done manually by a supervisor or team lead, or it can be automated based on predefined rules, agent availability, or workload distribution.
