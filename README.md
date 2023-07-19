@@ -88,6 +88,30 @@ So, as Jane Doe, administrator, I see the three tickets submitted on my Dashboar
 </p>
 
 <p>
+On our dashboard, we click on one of the tickets, in this case, the hardware refresh inquiry, and we can re-assign this ticket to a particular Agent or Team. 
+</p>
+
+<p>
+<img src="https://github.com/mariamcpherson/os_lifecycle/assets/139581822/5d9c7ab2-6168-413b-b2b7-6ec3a8e0c20f"/>
+</p>
+
+<p>
+Let's assign this ticket to John Doe, because he has the necessary permissions and expertise to deal with this issue. 
+</p>
+
+<p>
+<img src="https://github.com/mariamcpherson/os_lifecycle/assets/139581822/c0207f6f-99c4-4c15-b727-3388060fa330"/>
+</p>
+
+<p>
+When we go back to the Dashboard, we see that the ticket has been assigned to John Doe.
+</p>
+
+<p>
+<img src="https://github.com/mariamcpherson/os_lifecycle/assets/139581822/fa0dba33-4df2-4fc7-854b-a8fb124e681d"/>
+</p>
+
+<p>
 3. Ticket Response: After assignment, the agent or support staff member responds to the ticket. They may ask for additional information from the customer to better understand the issue or provide a preliminary solution.
 </p>
 
