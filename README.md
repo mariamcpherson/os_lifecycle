@@ -32,23 +32,40 @@ By following this ticket lifecycle, osTicket helps support teams efficiently man
 1. Ticket Creation or Intake: The lifecycle begins when a customer submits a new support ticket. This can happen through various channels, such as a web form on the support portal, an email sent to a designated support email address, or even an API integration with other systems.
 </p>
 <p>
-In this tutorial, we can access the osTicket system we previously installed and configured as an end user to create a new ticket by browsing to the following URL: http:/localhost/osTicket, then clicking on "Open New Ticket."
+In this tutorial, we can access the osTicket system we previously installed and configured as an end user to create a new ticket by browsing to the following URL: http:/localhost/osTicket, then clicking on "Open New Ticket." Each ticket contains the customer information who is requesting the issue to be resolved, a drop-down menu with the category under which the issue falls, and a brief description of what the issue is to help the Help Desk professional better understand. 
 </p>
+
 
 <p>
 <img src="https://github.com/mariamcpherson/os_lifecycle/assets/139581822/e0e1ec01-2d28-445d-8576-0879f7b82a51"/>
 </p>
 
 <p>
-I created three different made up tickets for different Help Topics, as shown below. They include a brief description of the issue. 
+I created three different made up tickets for different Help Topics, as shown below. 
 </p>
+
+<p>
+This imaginary customer, Ken, is requesting help with a Critical business issue, that according to the SLAs we set up in the previous section, will have to be dealt with on a 24/7 schedule, with a grace period of 1 hour. This is an important issue that affects business operations.
+</p>
+
 
 <p>
 <img src="https://github.com/mariamcpherson/os_lifecycle/assets/139581822/286331d2-4157-4219-b9ee-a2494cfed843"/>
 </p>
 
+
+<p>
+The same customer, Ken, is requesting help with an issue under the category of Personal Computer Issues, and he also included a brief description.
+</p>
+
+
+
 <p>
 <img src="https://github.com/mariamcpherson/os_lifecycle/assets/139581822/60ad2f91-4284-4613-be9d-4d4723ab86af"/>
+</p>
+
+<p>
+In this case, Ken, has a general question regarding hardware updates for his department.
 </p>
 
 <p>
