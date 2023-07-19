@@ -116,11 +116,27 @@ When we go back to the Dashboard, we see that the ticket has been assigned to Jo
 </p>
 
 <p>
+Let's sign in as John Doe, who was assigned this hardware refresh ticket so we can address it.
+</p>
+
+<p>
+<img src="https://github.com/mariamcpherson/os_lifecycle/assets/139581822/0f7b36af-72d1-45f9-989e-adb415beb995"/>
+</p>
+
+<p>
 4. Ticket Status Updates: During the ticket lifecycle, the ticket's status may change several times to reflect its current state. Common status labels include "Open," "In Progress," "Pending Customer Reply," "On Hold," and "Closed." These labels help in tracking the progress of the ticket and provide better visibility to both agents and customers.
 </p>
 
 <p>
 5. Ticket Communication: There may be back-and-forth communication between the agent and the customer until the issue is fully resolved. osTicket keeps a record of all communications, which is helpful for tracking the ticket history and ensuring continuity in case of agent changes or follow-ups.
+</p>
+
+<p>
+John Doe responded to the customer, Ken, letting him know that he is working on the issue. This communication should continue until the issue has been resolved. 
+</p>
+
+<p>
+<img src="https://github.com/mariamcpherson/os_lifecycle/assets/139581822/57e88eac-0c32-4b6b-a8ad-a9e7f9f55d54"/>
 </p>
 
 <p>
@@ -144,26 +160,3 @@ When we go back to the Dashboard, we see that the ticket has been assigned to Jo
 </p>
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
