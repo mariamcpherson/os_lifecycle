@@ -3,12 +3,18 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+<p>
+The ticket lifecycle in osTicket refers to the various stages a support ticket goes through from its creation to resolution or closure. 
+</p>
 
+<p>
+By following this ticket lifecycle, osTicket helps support teams efficiently manage customer inquiries, provide timely solutions, and maintain a transparent and organized support process.
+</p>
 
-<h2>Video Demonstration</h2>
+<p>
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.
+</p><br />
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
