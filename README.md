@@ -59,7 +59,6 @@ The same customer, Ken, is requesting help with an issue under the category of P
 </p>
 
 
-
 <p>
 <img src="https://github.com/mariamcpherson/os_lifecycle/assets/139581822/60ad2f91-4284-4613-be9d-4d4723ab86af"/>
 </p>
@@ -72,6 +71,17 @@ In this case, Ken, has a general question regarding hardware updates for his dep
 <img src="https://github.com/mariamcpherson/os_lifecycle/assets/139581822/32fb4c18-fdac-43ef-8358-f182c5ac4a86"/>
 </p>
 
+<p>
+Now, let's change roles. A customer has created a few tickets for our Help Desk team to work on, so we will be logging into the system as one of our admins. I logged in as jane.doe with the credentials that I created during osTicket installation and setup, but you can log in as any of the Agents created in the previous section. 
+</p>
+
+<p>
+So, as Jane Doe, administrator, I see the three tickets submitted on my Dashboard. 
+</p>
+
+<p>
+<img src="https://github.com/mariamcpherson/os_lifecycle/assets/139581822/5147fa10-13d5-4ff1-b6a9-74571cff86f4"/>
+</p>
 
 <p>
 2. Ticket Assignment: Once the ticket is created, it needs to be assigned to an appropriate agent or support staff member. In osTicket, this can be done manually by a supervisor or team lead, or it can be automated based on predefined rules, agent availability, or workload distribution.
