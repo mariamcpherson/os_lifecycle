@@ -144,7 +144,19 @@ John Doe responded to the customer, Ken, letting him know that he is working on 
 </p>
 
 <p>
-7. Ticket Closure: After the ticket is resolved, it can be marked as "Closed." This indicates that the issue has been successfully addressed to the customer's satisfaction. The ticket is no longer considered active, but the information is still accessible for future reference and reporting purposes.
+Now, our ticket for the hardware update is resolved. John Doe has contacted the HR department and given the green light to order new tablets for the accounting department. In this case it is Jane Doe who marks it as "Resolved," and provides an explanation of what the resolution was.
+</p>
+
+<p>
+<img src="https://github.com/mariamcpherson/os_lifecycle/assets/139581822/aedd0ad9-138f-4659-a6bd-d772702d75c0"/>
+</p>
+
+<p>
+7. Ticket Closure: After the ticket is resolved, it can be marked as "Closed." This indicates that the issue has been successfully addressed to the customer's satisfaction. The ticket is no longer considered active, but the information is still accessible for future reference and reporting purposes. 
+</p>
+
+<p>
+<img src="https://github.com/mariamcpherson/os_lifecycle/assets/139581822/88cf8440-3072-457c-90f9-a28f6e5feaf9"/>
 </p>
 
 <p>
